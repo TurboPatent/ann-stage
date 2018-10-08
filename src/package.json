@@ -1,0 +1,77 @@
+{
+  "name": "ann-template-stage",
+  "description": "Deep Learning: Artificial Neuron",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "details": {
+    "counts": {
+      "termCount": 0,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 6
+    },
+    "briefDescriptions": [
+      "<p><b>Fig. 1</b> illustrates a <span data-role=\"tag\" data-value=\"2e908bd6-d31d-69ff-e3f6-16bef5ef5ddc\" id=\"id01971235-a8d0-aa35-c457-b9f413dd35ad\" data-type=\"drawingObject\">basic deep neural network 100</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 2</b> illustrates an <span data-role=\"tag\" data-value=\"5f81392a-ba53-7508-1f56-ca9324d1ec91\" id=\"id061ecb3e-bb65-05da-4985-89ed56f842f8\" data-type=\"drawingObject\">artificial neuron 200</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
+      {
+        "name": "basic deep neural network",
+        "number": 100
+      },
+      {
+        "name": "input layer",
+        "number": 102
+      },
+      {
+        "name": "hiden layers",
+        "number": 104
+      },
+      {
+        "name": "output layer",
+        "number": 106
+      },
+      {
+        "name": "artificial neuron",
+        "number": 200
+      },
+      {
+        "name": "activation function",
+        "number": 202
+      }
+    ],
+    "terms": [],
+    "glossary": [
+      {
+        "term": "ReLU",
+        "definition": "a rectifier function, an activation function defined as the positive part of ints  input. It is also known as a ramp function and is analogous to half-wave rectification in electrical signal theory. ReLu is a popular activation function in deep neural networks. "
+      },
+      {
+        "term": "Loss function",
+        "definition": "also referred to as the cost function or error function (not to be confused with the Gauss error function), is a function that maps values of one or more variables onto a real number intuitively representing some \"cost\" associated with those values. "
+      },
+      {
+        "term": "hyperbolic tangent function",
+        "definition": "a function of the form tanh(x)=sinh(x)/cosh(x). The tanh function is a popular activation function in artificial neural networks. Like the sigmoid, the tanh function is also sigmoidal (“s”-shaped), but instead outputs values that range (-1, 1). Thus strongly negative inputs to the tanh will map to negative outputs. Additionally, only zero-valued inputs are mapped to near-zero outputs. These properties make the network less likely to get “stuck” during training. "
+      },
+      {
+        "term": "Sigmoid function",
+        "definition": "a function of the form f(x)=1/(exp(-x)). The signmoid function is used as an activation function in artificial neural networks. It has the property of mapping a wide range of input values to the range 0-1, or sometimes -1 to 1. "
+      },
+      {
+        "term": "Backpropagation",
+        "definition": "an algorithm used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network. It is commonly used to train deep neural networks, a term referring to neural networks with more than one hidden layer.\nFor backpropagation, the loss function calculates the difference between the network output and its expected output, after a case propagates through the network."
+      },
+      {
+        "term": "Softmax function",
+        "definition": "a function of the form f(xi)=exp(xi)/sum(exp(x)) where the sum is taken over a set of x. Softmax is used at different layers (often at the output layer) of artificial neural networks to predict classifications for inputs to those layers.\nThe softmax function calculates the probabilities distribution of the event xi over ‘n’ different events. In general sense, this function calculates the probabilities of each target class over all possible target classes. The calculated probabilities are helpful for predicting that the target class is represented in the inputs.\n\nThe main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one. If the softmax function used for multi-classification model it returns the probabilities of each class and the target class will have the high probability.\n\nThe formula computes the exponential (e-power) of the given input value and the sum of exponential values of all the values in the inputs. Then the ratio of the exponential of the input value and the sum of exponential values is the output of the softmax function."
+      }
+    ]
+  },
+  "repository": "https://github.com/TurboPatent/ann-template-stage"
+}

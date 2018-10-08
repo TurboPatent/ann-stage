@@ -1,0 +1,4 @@
+{
+  "term": "ReLU",
+  "definition": "a rectifier function, an activation function defined as the positive part of ints  input. It is also known as a ramp function and is analogous to half-wave rectification in electrical signal theory. ReLu is a popular activation function in deep neural networks. "
+}

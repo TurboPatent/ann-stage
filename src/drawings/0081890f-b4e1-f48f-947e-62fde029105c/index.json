@@ -1,0 +1,700 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 376,
+          "y": 252
+        },
+        "size": {
+          "width": 20,
+          "height": 18
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "356761af-f0f5-41c5-bc7f-87122d8ccb85",
+        "z": 0,
+        "labelLayout": {
+          "labelBoxWidth": 16.10595703125,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 8.052978515625,
+              "y": -6.079202805328368
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "e404e60e-4ef1-495b-9d1e-c2ec6a41cebf",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>artificial neuron</p>",
+        "position": {
+          "x": 528,
+          "y": 40
+        },
+        "size": {
+          "width": 28.346454620361328,
+          "height": 28.346454620361328
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "ea8eaaf8-dde3-499c-9a42-0d78c15e5403",
+        "z": 1,
+        "objectID": "5f81392a-ba53-7508-1f56-ca9324d1ec91",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 283.99999999999966,
+          "y": 181.0000000000005
+        },
+        "size": {
+          "width": 157,
+          "height": 161
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "495a2136-127a-46dd-a793-741ddf2de149",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 126.43175506591797,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 63.215877532958984,
+              "y": 29.04172166748047
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "49d9efb1-f824-3239-ffaa-c21c0dba306d",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 430,
+          "y": 125
+        },
+        "size": {
+          "width": 74.46195911091363,
+          "height": 46.41413035243204
+        },
+        "angle": 0,
+        "label": "<p>activation function</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "5f31e3d1-db4a-43b7-ad3d-4a6cdd9bda6a",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 67.95355224609375,
+          "fullString": "ACTIVATION FUNCTION",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "ACTIVATION",
+              "width": 67.71529388427734,
+              "x": 0.11912918090820312,
+              "y": 0.09042423095703356
+            },
+            {
+              "text": "FUNCTION",
+              "width": 63.55147933959961,
+              "x": 2.2010364532470703,
+              "y": 21.09046173095703
+            }
+          ],
+          "textWidth": 67.71529388427734,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "c1deeb48-6c95-2dfc-2814-aaad13e9bf9a",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>activation function</p>",
+        "position": {
+          "x": 499,
+          "y": 143
+        },
+        "size": {
+          "width": 30.23621826171875,
+          "height": 30.23621826171875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position4",
+        "id": "bcd00642-3782-4db4-a046-fe2d2d0cd536",
+        "z": 6,
+        "objectID": "5b9eb22a-c43f-7669-067a-b4856e20e83f",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "5f31e3d1-db4a-43b7-ad3d-4a6cdd9bda6a"
+        },
+        "target": {
+          "id": "356761af-f0f5-41c5-bc7f-87122d8ccb85"
+        },
+        "id": "7d02ded8-1f22-4da1-b032-43db31864b5e",
+        "embeds": "",
+        "z": 7,
+        "routing": "curved",
+        "objectID": "e6a5e259-a4bb-f04f-42c0-34771ce07ab2",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 44,
+          "y": 137
+        },
+        "size": {
+          "width": 164,
+          "height": 46.60248703077369
+        },
+        "angle": 0,
+        "label": "<p>input from prior-layer neuron</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "43df89c6-7f6e-4b35-9e55-be056de7ebe4",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 149.66543579101562,
+          "fullString": "INPUT FROM PRIOR-LAYER NEURON",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "INPUT FROM PRIOR-",
+              "width": 122.81153106689453,
+              "x": 13.426952362060547,
+              "y": 0.17601459350586168
+            },
+            {
+              "text": "LAYER NEURON",
+              "width": 91.5232162475586,
+              "x": 29.071109771728516,
+              "y": 21.17605209350586
+            }
+          ],
+          "textWidth": 122.81153106689453,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "a06d0b82-2a68-95e4-9125-d7908735a5f4"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 162,
+          "y": 232
+        },
+        "size": {
+          "width": 56.692909240722656,
+          "height": 24.207881644066376
+        },
+        "angle": 0,
+        "label": "<p>W1X1</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "fb2d1fa1-a245-4205-9e01-e961bbbc07c1",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 51.73761749267578,
+          "fullString": "W1X1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "W1X1",
+              "width": 34.14924240112305,
+              "x": 8.794187545776367,
+              "y": 0.49998029632568475
+            }
+          ],
+          "textWidth": 34.14924240112305,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "978e7d5d-0b39-117d-bfde-ee13e60e0b7c"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 471,
+          "y": 267
+        },
+        "size": {
+          "width": 164,
+          "height": 24.207881387660542
+        },
+        "angle": 0,
+        "label": "<p>neuron output</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "3c5db832-84be-8761-b0eb-8e2d02c154e5",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 149.66543579101562,
+          "fullString": "NEURON OUTPUT",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NEURON OUTPUT",
+              "width": 106.15603637695312,
+              "x": 21.75469970703125,
+              "y": 0.49998029632568475
+            }
+          ],
+          "textWidth": 106.15603637695312,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5ee3925f-c088-c57e-53a7-cbdb50bd8c7e"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 197,
+          "y": 331
+        },
+        "size": {
+          "width": 56.692909240722656,
+          "height": 24.207881644066376
+        },
+        "angle": 0,
+        "label": "<p>W2X2</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "66f3d755-27bd-c2a4-5950-431637162a3a",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 51.73761749267578,
+          "fullString": "W2X2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "W2X2",
+              "width": 34.14924240112305,
+              "x": 8.794187545776367,
+              "y": 0.49998029632568475
+            }
+          ],
+          "textWidth": 34.14924240112305,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "529c5921-1e46-f831-0438-e19f6562e717"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 257,
+          "y": 158
+        },
+        "size": {
+          "width": 56.692909240722656,
+          "height": 24.207881644066376
+        },
+        "angle": 0,
+        "label": "<p>W0X0</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "8a1d4e54-fb46-bb13-9670-f3d4a12a47d6",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 51.73761749267578,
+          "fullString": "W0X0",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "W0X0",
+              "width": 34.14924240112305,
+              "x": 8.794187545776367,
+              "y": 0.49998029632568475
+            }
+          ],
+          "textWidth": 34.14924240112305,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "868eadaf-feb1-7273-f0e2-79bf359fea34"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 204,
+          "y": 107
+        },
+        "size": {
+          "width": 23,
+          "height": 23
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "bf7c1cf4-bdd5-42f8-89b0-25b137786d57",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 18.5218505859375,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.26092529296875,
+              "y": -4.851198349761962
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "1ff893f1-0e7e-e1b4-eb38-bbfab9d55b21",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 70,
+          "y": 106
+        },
+        "size": {
+          "width": 34,
+          "height": 24
+        },
+        "angle": 0,
+        "label": "<p>X0</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "3885cbea-542e-4bfa-b3ad-37befd2b56aa",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 31.0282039642334,
+          "fullString": "X0",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "X0",
+              "width": 13.976770401000977,
+              "x": 8.525716781616211,
+              "y": 0.4055198089599621
+            }
+          ],
+          "textWidth": 13.976770401000977,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f0eb03b2-edf9-1525-5b72-29360999b119"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 195,
+          "y": 84
+        },
+        "size": {
+          "width": 34,
+          "height": 24
+        },
+        "angle": 0,
+        "label": "<p>W0</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c590df89-19d2-2e92-a31f-2b978494804d",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 31.0282039642334,
+          "fullString": "W0",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "W0",
+              "width": 20.172473907470703,
+              "x": 5.427865028381348,
+              "y": 0.4055198089599621
+            }
+          ],
+          "textWidth": 20.172473907470703,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9858ea77-dc09-7b82-b98b-cbb0cea6f898"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rasterImageNew",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 291,
+          "y": 243
+        },
+        "size": {
+          "width": 142,
+          "height": 36
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "numberPosition": "position4",
+        "imageData": {
+          "href": "data:image/png;base64,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",
+          "width": 111.18750762939453,
+          "height": 19.03125
+        },
+        "id": "733011c8-7caf-4a4b-9d7b-49a3e98dc3ab",
+        "z": 15,
+        "objectID": "633a6c32-3d7e-5caa-9101-337bd1e0d6e0",
+        "number": null,
+        "labelLayout": {
+          "labelBoxWidth": 425.99993896484375,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 212.99996948242188,
+              "y": 0
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "3885cbea-542e-4bfa-b3ad-37befd2b56aa"
+        },
+        "target": {
+          "id": "bf7c1cf4-bdd5-42f8-89b0-25b137786d57"
+        },
+        "id": "5fb3b695-1a22-42aa-9ff0-de20648a45a0",
+        "embeds": "",
+        "z": 16,
+        "routing": "straight",
+        "objectID": "983b2c9f-9615-8776-7293-b4a3d2c94cda",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "bf7c1cf4-bdd5-42f8-89b0-25b137786d57"
+        },
+        "target": {
+          "id": "495a2136-127a-46dd-a793-741ddf2de149"
+        },
+        "id": "924c8443-c732-4c35-906a-7ac4c1a7d055",
+        "embeds": "",
+        "z": 17,
+        "routing": "straight",
+        "objectID": "45989c2d-9ee5-413d-db59-a289f93e685c",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "fb2d1fa1-a245-4205-9e01-e961bbbc07c1"
+        },
+        "target": {
+          "id": "495a2136-127a-46dd-a793-741ddf2de149"
+        },
+        "id": "0c5ba8b5-09f3-4525-8a61-ab04acb880b9",
+        "embeds": "",
+        "z": 18,
+        "routing": "straight",
+        "objectID": "99107dde-07fb-c5af-7a60-abb26acbbc10",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "66f3d755-27bd-c2a4-5950-431637162a3a"
+        },
+        "target": {
+          "id": "495a2136-127a-46dd-a793-741ddf2de149"
+        },
+        "id": "a4b69555-de7a-41a0-8da1-8a5a44a9283b",
+        "embeds": "",
+        "z": 19,
+        "routing": "straight",
+        "objectID": "a890dc4a-5d93-bf36-b32b-26c37b287824",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "495a2136-127a-46dd-a793-741ddf2de149"
+        },
+        "target": {
+          "x": 635,
+          "y": 262
+        },
+        "id": "eb9bd183-6e73-4a3d-8c28-842d06239dc7",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "ece67d62-1361-2775-2041-ad7d310cbd03",
+        "label": " ",
+        "name": " "
+      }
+    ]
+  }
+}

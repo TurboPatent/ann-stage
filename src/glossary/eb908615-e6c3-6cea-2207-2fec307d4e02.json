@@ -1,0 +1,4 @@
+{
+  "term": "Sigmoid function",
+  "definition": "a function of the form f(x)=1/(exp(-x)). The signmoid function is used as an activation function in artificial neural networks. It has the property of mapping a wide range of input values to the range 0-1, or sometimes -1 to 1. "
+}

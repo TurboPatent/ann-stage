@@ -1,0 +1,4 @@
+{
+  "term": "Backpropagation",
+  "definition": "an algorithm used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network. It is commonly used to train deep neural networks, a term referring to neural networks with more than one hidden layer.\nFor backpropagation, the loss function calculates the difference between the network output and its expected output, after a case propagates through the network."
+}

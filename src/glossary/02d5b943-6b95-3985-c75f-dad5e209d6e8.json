@@ -1,0 +1,4 @@
+{
+  "term": "hyperbolic tangent function",
+  "definition": "a function of the form tanh(x)=sinh(x)/cosh(x). The tanh function is a popular activation function in artificial neural networks. Like the sigmoid, the tanh function is also sigmoidal (“s”-shaped), but instead outputs values that range (-1, 1). Thus strongly negative inputs to the tanh will map to negative outputs. Additionally, only zero-valued inputs are mapped to near-zero outputs. These properties make the network less likely to get “stuck” during training. "
+}
