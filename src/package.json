@@ -1,5 +1,5 @@
 {
-  "name": "ann-template-stage",
+  "name": "ann-stage",
   "description": "Deep Learning: Artificial Neuron",
   "owner": {
     "login": "TurboPatent",
@@ -73,5 +73,5 @@
       }
     ]
   },
-  "repository": "https://github.com/TurboPatent/ann-template-stage"
+  "repository": "https://github.com/TurboPatent/ann-stage"
 }
