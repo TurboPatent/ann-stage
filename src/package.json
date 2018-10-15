@@ -16,8 +16,8 @@
       "glossaryCount": 6
     },
     "briefDescriptions": [
-      "<p><b>Fig. 1</b> illustrates a <span data-role=\"tag\" data-value=\"2e908bd6-d31d-69ff-e3f6-16bef5ef5ddc\" id=\"id01971235-a8d0-aa35-c457-b9f413dd35ad\" data-type=\"drawingObject\">basic deep neural network 100</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 2</b> illustrates an <span data-role=\"tag\" data-value=\"5f81392a-ba53-7508-1f56-ca9324d1ec91\" id=\"id061ecb3e-bb65-05da-4985-89ed56f842f8\" data-type=\"drawingObject\">artificial neuron 200</span> in accordance with one embodiment.</p>"
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"2e908bd6-d31d-69ff-e3f6-16bef5ef5ddc\" id=\"id01971235-a8d0-aa35-c457-b9f413dd35ad\" data-type=\"drawingObject\">basic deep neural network 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"5f81392a-ba53-7508-1f56-ca9324d1ec91\" id=\"id061ecb3e-bb65-05da-4985-89ed56f842f8\" data-type=\"drawingObject\">artificial neuron 200</span> in accordance with one embodiment.</p>"
     ],
     "parts": [
       {
